@@ -2,7 +2,7 @@
 
 Здесь нет «вечных» списков: то, что было живо утром, к вечеру часто уже не отвечает. Поэтому таблица пересобирается каждый час — из десятков открытых списков и телеграм-каналов, с проверкой каждого адреса и удалением мёртвых. Метка времени в шапке показывает, когда прошла последняя проверка и когда будет следующая.
 
-Сайт: https://oznurakaro04.github.io/telegram-proxy-live/ · полный список: https://oznurakaro04.github.io/telegram-proxy-live/proxy.html · 800 серверов, обновлено 26.09.2026 18:07 МСК.
+Сайт: https://oznurakaro04.github.io/telegram-proxy-live/ · полный список: https://oznurakaro04.github.io/telegram-proxy-live/proxy.html · 800 серверов, обновлено 26.09.2026 19:08 МСК.
 
 - [MTProxy (главный каталог)](https://tgmtproxy.github.io/mtproxy/)
 - [Прокси-Радар](https://ferhatacer90.github.io/mtproxy-list/)
